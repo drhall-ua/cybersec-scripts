@@ -1,3 +1,8 @@
+'''
+Code from "Python One-Liners" by Christian Mayer
+2020, no starch press
+'''
+
 # Data
 abc = "abcdefghijklmnopqrstuvwxyz"
 s = "thexcommiexrussiansxarexcoming"
